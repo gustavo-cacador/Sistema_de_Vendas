@@ -14,7 +14,6 @@ Permitindo um controle rápido e eficaz através de um gerenciamento e interaç�
 - **Cadastro Entrada**:  Permite efetuar entrada dos produtos.
 - **Listar Entrada**: Permite visualizar uma lista completa das entradas de todos os produtos.
 - **Cadastros**: Permite registrar estados, cidades, funcionários, clientes, fornecedores e produtos através de uma API.
-- *
 -**Controle de Estoque**: Monitora entradas e saídas de produtos, mantendo o estoque sempre atualizado.
 
 
